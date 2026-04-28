@@ -1,0 +1,19 @@
+{
+  "name": "zattiri-zitos",
+  "version": "0.1.0",
+  "description": "🚀 Zattiri Zitos - The ultimate vibe",
+  "main": "index.js",
+  "bin": {
+    "zattiri": "./bin/zattiri.js",
+    "zitos": "./bin/zitos.js"
+  },
+  "scripts": {
+    "test": "echo 'ZATTIRI ZITOS!'"
+  },
+  "keywords": ["zattiri", "zitos", "vibe", "meme", "cli"],
+  "author": "TURAC",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.1.2"
+  }
+}
